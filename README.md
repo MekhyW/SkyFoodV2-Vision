@@ -1,3 +1,3 @@
-# OAK Template
+# SkyFoodV2-Vision
 
-Checkout [docs](https://stg.docs.luxonis.com/software/template/) for documentation and instructions.
+OAK4 App for Luxonis camera onboard of SkyFood V2 robots, using DepthAI V3 with ROS2 integration
